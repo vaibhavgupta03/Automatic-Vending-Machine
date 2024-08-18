@@ -1,7 +1,7 @@
 # Automatic-Vending-Machine
 Automatic Vending Machine - Verilog Project
 
-![Automatic_Vending_Machine](/automatic_vending_machine_ui.png)
+![Automatic_Vending_Machine](/project_ui.png)
 ## Overview
 This repository contains the design code, testbench code, and UI image for an automatic vending machine implemented using Verilog. The vending machine accepts two types of inputs: 5 Rs and 10 Rs, and provides the appropriate change or delivers the product based on the amount inserted.
 
