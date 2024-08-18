@@ -77,3 +77,16 @@ The `always` block handles the state transitions and output logic. The `case` st
 
 ## Testbench Code
 The testbench code simulates different scenarios to verify the correctness of the vending machine design. It provides various input sequences and checks the outputs to ensure that the vending machine behaves as expected.
+
+## Contributing
+Contributions are welcome! If you'd like to contribute:
+
+- Fork this repository.
+- Create a new branch (git checkout -b feature-branch).
+- Make your changes.
+- Commit your changes (git commit -am 'Add new feature').
+- Push to the branch (git push origin feature-branch).
+- Create a pull request.
+
+## Contact
+If you have any questions or feedback, feel free to reach out at vaibhavgupta6393@gmail.com.
